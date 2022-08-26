@@ -1,3 +1,5 @@
+--Project exploring government data about covid-19
+--Skills that were used in this project include Joins, Temp tables, Creation of views, conversion of data, and Sql window function.
 Select *
 From Covid_19_project.dbo.CovidDeaths$
 Order by 3, 4;
