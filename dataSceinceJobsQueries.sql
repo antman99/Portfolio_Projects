@@ -1,4 +1,4 @@
--- I always start by checking to see if data imported corrctly, making sure to take note of how the data is organized
+--Skills used in projects are Select, From, Where, Group by, Order by, and aggregate functions
 -- This data set contains information on data science jobs posted in the past 2 years, specifially salary, job titles, experience, employment type, and company size
 
 Select *
